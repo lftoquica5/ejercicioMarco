@@ -1,0 +1,13 @@
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\bin\Debug\netcoreapp3.1\Macro.exe
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\bin\Debug\netcoreapp3.1\Macro.deps.json
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\bin\Debug\netcoreapp3.1\Macro.runtimeconfig.json
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\bin\Debug\netcoreapp3.1\Macro.runtimeconfig.dev.json
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\bin\Debug\netcoreapp3.1\Macro.dll
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\bin\Debug\netcoreapp3.1\Macro.pdb
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\obj\Debug\netcoreapp3.1\Macro.csprojAssemblyReference.cache
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\obj\Debug\netcoreapp3.1\Macro.AssemblyInfoInputs.cache
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\obj\Debug\netcoreapp3.1\Macro.AssemblyInfo.cs
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\obj\Debug\netcoreapp3.1\Macro.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\obj\Debug\netcoreapp3.1\Macro.dll
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\obj\Debug\netcoreapp3.1\Macro.pdb
+C:\Users\Equipo\OneDrive\Escritorio\LUISA\PORTAFOLIO\LENGUAJE DE PROGRAMACION\Macro\Macro\obj\Debug\netcoreapp3.1\Macro.genruntimeconfig.cache
